@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("third modified");
 
         System.out.println("master branch conflicts modified");
+
+        System.out.println("hot-fix branch conflicts modified");
     }
 }
