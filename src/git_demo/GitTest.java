@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("second modified");
 
         System.out.println("third modified");
+
+        System.out.println("hot-fix branch conflicts modified");
     }
 }
