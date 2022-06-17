@@ -16,5 +16,7 @@ public class GitTest {
         System.out.println("remote push test");
         
         System.out.println("remote pull test");
+        
+        System.out.println("remote pull conflicts modified for remote");
     }
 }
