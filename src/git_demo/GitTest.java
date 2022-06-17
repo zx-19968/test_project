@@ -6,5 +6,7 @@ public class GitTest {
         System.out.println("hello,git");
 
         System.out.println("second modified");
+
+        System.out.println("third modified");
     }
 }
